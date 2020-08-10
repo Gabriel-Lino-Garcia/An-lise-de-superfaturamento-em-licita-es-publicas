@@ -1,4 +1,4 @@
-# Analise-de-superfaturamento-em-licitacoes-publicas
+# Analise de superfaturamento em licitacoes públicas
 Superfaturamento em licitações publicas, uma análise prática sobre este tipo de fraude.
 
 O projeto em ZIP, mostra uma base de todo o conceito realizado durante o período de iniciação científica realizado pela Faculdade de Tecnologia de Garça.
